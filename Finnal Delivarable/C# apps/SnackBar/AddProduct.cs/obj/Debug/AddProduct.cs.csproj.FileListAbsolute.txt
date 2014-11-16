@@ -1,0 +1,9 @@
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\bin\Debug\AddProduct.cs.exe.config
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\obj\Debug\AddProduct.cs.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\obj\Debug\AddProduct.cs.Form1.resources
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\obj\Debug\AddProduct.cs.Properties.Resources.resources
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\obj\Debug\AddProduct.cs.csproj.GenerateResource.Cache
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\bin\Debug\AddProduct.cs.exe
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\bin\Debug\AddProduct.cs.pdb
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\obj\Debug\AddProduct.cs.exe
+C:\Users\Toshko\Desktop\C3\AddProduct.cs\AddProduct.cs\obj\Debug\AddProduct.cs.pdb

@@ -1,0 +1,42 @@
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EntranceAPP.resources
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\EntranceApp.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\EntranceApp.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EntranceAPP.resources
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\EntranceApp.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Desktop\Entrance application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\EntranceApp.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EntranceAPP.resources
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\EntranceApp.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\Pictures\exit.png
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\Pictures\images.jpg
+C:\Users\Tsvetomir\Desktop\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\Pictures\money.png
+C:\Users\Toshko\Dropbox\ProP\C#\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Toshko\Dropbox\ProP\C#\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\Pictures\exit.png
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\Pictures\images.jpg
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\Pictures\money.png
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\EntranceApp.csprojResolveAssemblyReference.cache
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EntranceAPP.resources
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+X:\University\YEAR 2\Entrance application\EntranceAPP(newest)\WindowsFormsApplication1\obj\x86\Debug\EntranceApp.csproj.GenerateResource.Cache

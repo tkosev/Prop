@@ -1,0 +1,106 @@
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Desktop\C3\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+\\VBOXSVR\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\R\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\vyt\Dropbox\ProP_GroupC\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\vyt\Dropbox\ProP_GroupC\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\vyt\Dropbox\ProP_GroupC\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Tsvetomir\Downloads\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MySql.Data.dll
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\MySql.Web.dll
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\bin\Debug\Phidget21.NET.dll
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\bin\Debug\MySql.Data.dll
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\bin\Debug\MySql.Web.dll
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\bin\Debug\Phidget21.NET.dll
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Toshko\Documents\MateriaStand.cs\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MySql.Data.dll
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MySql.Web.dll
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\Phidget21.NET.dll
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Toshko\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Tsvetomir\Dropbox\ProP\C#\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\bin\Debug\MySql.Data.dll
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\bin\Debug\MySql.Web.dll
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\bin\Debug\Phidget21.NET.dll
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Toshko\Desktop\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe.config
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.exe
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.pdb
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.exe
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\bin\Debug\MateriaStand.cs.pdb
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Form1.resources
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.Properties.Resources.resources
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\MateriaStand\MateriaStand.cs\obj\Debug\MateriaStand.cs.csproj.GenerateResource.Cache

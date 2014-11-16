@@ -1,0 +1,34 @@
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\mysql.data.dll
+C:\Users\Toshko\Dropbox\ProP\C#\Statistics\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Toshko\Dropbox\ProP\C#\Statistics\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Toshko\Dropbox\ProP\C#\Statistics\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\R\Dropbox\WFA3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phidget21.NET.dll
+C:\Users\R\Desktop\CampAndStat COpy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\R\Desktop\CampAndStat COpy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\R\Desktop\CampAndStat COpy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\bin\Debug\mysql.data.dll
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\bin\Debug\Phidget21.NET.dll
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\R\Desktop\CampAndStat COpy\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Toshko\Dropbox\ProP\Finnal Delivarable\StatisticApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Toshko\Dropbox\ProP\Finnal Delivarable\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Toshko\Dropbox\ProP\Finnal Delivarable\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\StatisticApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Dropbox\ProP\Finnal Delivarable\StatisticApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

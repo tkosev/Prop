@@ -1,0 +1,19 @@
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Camp App.exe.config
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Camp App.exe
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Camp App.pdb
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Phidget21.NET.dll
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\CampAPP.csproj.GenerateResource.Cache
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Camp App.exe
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Camp App.pdb
+C:\Users\R\Dropbox\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\CampAPP.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\bin\Debug\Camp App.exe.config
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\obj\Debug\Camp App.exe
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\obj\Debug\Camp App.pdb
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\bin\Debug\Camp App.exe
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\bin\Debug\Camp App.pdb
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\obj\Debug\CampAPP.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\R\Desktop\CampAndStat COpy\CampApp\WindowsFormsApplication2\obj\Debug\CampAPP.csproj.GenerateResource.Cache

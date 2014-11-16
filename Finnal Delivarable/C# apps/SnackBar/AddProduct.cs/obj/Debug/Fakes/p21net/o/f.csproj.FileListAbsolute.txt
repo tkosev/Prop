@@ -1,0 +1,8 @@
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\b\Phidget21.NET.2.1.8.19.Fakes.xml
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\b\Phidget21.NET.2.1.8.19.Fakes.dll
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\b\Phidget21.NET.2.1.8.19.Fakes.pdb
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\b\Phidget21.NET.dll
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\o\Phidget21.NET.2.1.8.19.Fakes.dll
+C:\Users\Tsvetomir\Dropbox\ProP\C#\SnackBar\AddProduct.cs\obj\Debug\Fakes\p21net\o\Phidget21.NET.2.1.8.19.Fakes.pdb

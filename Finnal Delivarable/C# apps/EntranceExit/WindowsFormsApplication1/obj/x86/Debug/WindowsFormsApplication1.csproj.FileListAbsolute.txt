@@ -1,0 +1,28 @@
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phidget21.NET.dll
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\new_stuff\proftaak pts21\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phidget21.NET.dll
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\new_stuff\pcs4\week 4\Phidgets\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Tsvetomir\Desktop\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EntranceAPP.resources
